@@ -1,0 +1,230 @@
+{
+  "basics": {
+    "name": "Brandon Lozada",
+    "label": "Desarrollador Web Full Stack",
+    "image": "/brandonlozada.webp",
+    "email": "brandon_lozada@outlook.com",
+    "phone": "+52 8180998018",
+    "url": "https://brandonlozada.dev",
+    "summary": "Soy Desarrollador con más de un año de experiencia trabajando en tecnologías modernas para aplicaciones web y rubro manufacturero aplicando innovadoras técnicas de programación para resolver problemas. Actualmente, busco especializarme en ello y encontrarnos en una oportunidad laboral en una empresa desarrolladora de software donde pueda continuar creciendo profesionalmente y contribuir con mis habilidades técnicas al éxito de un equipo.",
+    "location": {
+      "address": "",
+      "postalCode": "66475",
+      "city": "Monterrey, Nuevo León",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "brandon-lozada",
+        "url": "https://www.linkedin.com/in/brandon-lozada"
+      },
+      {
+        "network": "GitHub",
+        "username": "BrandonLozada",
+        "url": "https://github.com/BrandonLozada"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "John Deere - Manufactura",
+      "position": "Factory Automation Intern",
+      "url": "https://about.deere.com",
+      "startDate": "2023-9-01",
+      "endDate": null,
+      "summary": "He implementado estaciones con el Sistema MES JDAAT para el departamento Manufactura para control de procesos de fabricación en el área operativa, desarrollado Dashboards en la plataforma Ignition para la recopilación y visualización de datos para líneas de ensamble y Stakeholders administrativos, soluciones SCADA para optimizar y mejorar procesos del área operativa, participado en proyectos de ahorro operativo de la compañía, análisis y diseño de la estructura de bases de datos.",
+      "highlights": ["Ignition 8.1", "Python", "SQL Server", "SCADA"]
+    },
+    {
+      "name": "Denso México - Manufactura",
+      "position": "Software Engineer Intern",
+      "url": "https://www.denso.com/mx/es/",
+      "startDate": "2023-1-22",
+      "endDate": "2023-7-22",
+      "summary": "Desarrollé módulo de aplicación Full Stack en Vue.Js y Django para Control de Lotes del área de Logística aplicando Programación Orientada a Objetos en lenguajes Python, PHP y C# con Patrón de Arquitectura MVC, creando la principal API RESTful manipulando tipos de datos como JSON y Datasets, utilizando patrones de diseño de Material Design para las interfaces de usuario, practicando Principios SOLID, Clean Code y elaborando componentes reutilizables.",
+      "highlights": ["Python", "Vue.Js", "JavaScript", "SQL Server", ".NET Core", "API RESTful"]
+    },
+    {
+      "name": "Incubación de Desarrollos Digitales",
+      "position": "Desarrollador Asistente",
+      "url": null,
+      "startDate": "2021-9-01",
+      "endDate": "2022-5-31",
+      "summary": "Trabajé diseñando páginas web para el catálogo de clientes donde realicé modificaciones, revisiones, actualizaciones al contenido y monitoreo de rendimiento a los sitios con la herramienta WordPress.",
+      "highlights": [""]
+    },
+    {
+      "name": "Servicios Especializados GROW",
+      "position": "Auxiliar Contable",
+      "url": null,
+      "startDate": "2018-11-01",
+      "endDate": "2021-6-30",
+      "summary": "Fungí como encargado de facturación y auxiliar en el desarrollo de flujos del mes relacionando facturas con los pagos del cliente, generando recibos de nómina, sindicato y creando expedientes de trabajadores.",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Facultad de Contaduría Pública y Administración UANL",
+      "url": "https://facpya.uanl.mx/",
+      "area": "Licenciatura en Tecnologías de Información",
+      "studyType": "Bachelor",
+      "startDate": "2020-1-01",
+      "endDate": null
+    },
+    {
+      "institution": "Udemy",
+      "url": "https://www.academlo.com",
+      "area": "Certificación de Curso Vue.js 3 La Guía Completa",
+      "studyType": "Certification",
+      "startDate": "2023-4-01",
+      "endDate": "2024-4-30"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Vue.Js",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Framework", "Composition API", "Script setup", "UI"]
+    },
+    {
+      "name": "Quasar Framework",
+      "level": "Mid-Level",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsivo"
+      ]
+    },
+    {
+      "name": "Pinia Store",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Frontend", "State Management"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Express",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": ".NET Core",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Backend", "API RESTful", "Servidor"]
+    },
+    {
+      "name": "Python",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo de Software", "Lenguaje de Programación", "Backend", "Fullstack"]
+    },
+    {
+      "name": "API RESTful",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Backend", "API RESTful", "Servidor"]
+    },
+    {
+      "name": "Axios",
+      "level": "Mid-Level",
+      "keywords": ["Desarrollo Web", "Backend", "API RESTful", "Cliente-Servidor"]
+    },
+    {
+      "name": "SQL Server",
+      "level": "Mid-Level",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Mid-Level",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Mid-Level",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "WordPress",
+      "level": "Mid-Level",
+      "keywords": ["Fullstack", "Desarrollo Web"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "App Salón",
+      "isActive": true,
+      "description": "Aplicación Full Stack para reservar citas en un salón de belleza.",
+      "highlights": ["Full Stack", "API RESTful", "Vue.Js", "Node.js", "Express"],
+      "url": ""
+    },
+    {
+      "name": "Inovatech",
+      "isActive": false,
+      "description": "Sistema de gestión para personal administrativo que registra info laboral, inicio de sesión y solicitudes de permisos.",
+      "highlights": ["Full Stack", "API RESTful", "Quasar Framework", ".NET Core"],
+      "url": ""
+    },
+    {
+      "name": "Punto de venta",
+      "isActive": true,
+      "description": "Aplicación web de punto de venta demostrativo creado con Vue.Js y Firebase.",
+      "highlights": ["Frontend", "Vue.Js", "Firebase", "Tailwind CSS"],
+      "url": "https://pos-vue-brandonlozada.vercel.app/"
+    },
+    {
+      "name": "Portfolio",
+      "isActive": false,
+      "description": "Portafolio web personal hecho en Vue.Js.",
+      "highlights": ["En Desarrollo", "Frontend", "Vue.Js", "Tailwind CSS"],
+      "url": ""
+    },
+    {
+      "name": "Bienes Raíces",
+      "isActive": true,
+      "description": "Aplicación web informativa y de gestión de catálogo de propiedades en Vue.Js y Firebase.",
+      "highlights": ["Frontend", "Vue.Js", "Firebase", "Tailwind CSS"],
+      "url": "https://vue-bienes-raices-brandonlozada.vercel.app/"
+    }
+  ]
+}
