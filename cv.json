@@ -215,7 +215,7 @@
     {
       "name": "Portfolio",
       "isActive": false,
-      "description": "Portafolio web personal hecho en Vue.Js.",
+      "description": "Porfolio web personal hecho en Vue.Js.",
       "highlights": ["En Desarrollo", "Frontend", "Vue.Js", "Tailwind CSS"],
       "url": ""
     },
