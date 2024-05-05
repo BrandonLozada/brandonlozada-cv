@@ -195,8 +195,8 @@
       "name": "App Salón",
       "isActive": true,
       "description": "Aplicación Full Stack para reservar citas en un salón de belleza.",
-      "highlights": ["Full Stack", "API RESTful", "Vue.Js", "Node.js", "Express"],
-      "url": ""
+      "highlights": ["Full Stack", "API RESTful", "MEVN", "Vue.Js", "Node.js", "Express"],
+      "url": "https://appsalon-mevn-brandonlozada.vercel.app/auth/iniciar-sesion"
     },
     {
       "name": "Inovatech",
