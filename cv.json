@@ -76,11 +76,11 @@
     },
     {
       "institution": "Udemy",
-      "url": "https://www.academlo.com",
+      "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-2bb08dff-e3c8-411f-a714-b98e1d50cfe2.pdf",
       "area": "Certificación de Curso Vue.js 3 La Guía Completa",
       "studyType": "Certification",
       "startDate": "2023-4-01",
-      "endDate": "2024-4-30"
+      "endDate": "2024-5-05"
     }
   ],
   "skills": [
